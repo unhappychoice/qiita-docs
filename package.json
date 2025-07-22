@@ -1,0 +1,25 @@
+{
+  "name": "qiita-docs",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/unhappychoice/qiita-docs#readme",
+  "bugs": {
+    "url": "https://github.com/unhappychoice/qiita-docs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/unhappychoice/qiita-docs.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.6.2"
+  }
+}
