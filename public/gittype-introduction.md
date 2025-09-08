@@ -1,13 +1,13 @@
 ---
-title: 自分のコードでタイピング練習ができるCLIゲームの GitType を作りました
+title: 自分のコードで練習ができるCLIタイピングゲームの GitType を作りました
 tags:
+  - Git
   - game
   - Rust
   - CLI
-  - OSS
-  - typing
+  - 初心者
 private: false
-updated_at: '2025-09-08T20:17:32+09:00'
+updated_at: '2025-09-08T21:05:59+09:00'
 id: e76099d2ecd0cf91fb47
 organization_url_name: null
 slide: false
@@ -16,7 +16,7 @@ ignorePublish: false
 
 ## はじめに
 
-タイピング練習ツールは昔から色々ありますが、出てくるのはよくわからないサンプルコードや英単語が多いです。
+タイピング練習ツールは昔から色々ありますが、出てくるのはサンプルコードや英単語が多いです。
 
 それを速く打ててもあまり意味がなく、日常的に触っているコードで練習できれば便利だと思いました。
 
@@ -111,6 +111,7 @@ gittype --repo git@github.com:axios/axios.git
 
 GitType は自分のコードやOSSを叩いて遊べるタイピングゲームです。  
 気になった方はぜひ試してみてください。
+ちなみに作者は1万点ちょっとくらいが限界なので、タイピング得意な我こそはという方はぜひスコアを教えていただけると 🙏
 
 ```bash
 gittype
