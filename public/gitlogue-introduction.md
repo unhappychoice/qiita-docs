@@ -7,7 +7,7 @@ tags:
   - CLI
   - tui
 private: false
-updated_at: '2025-11-23T10:51:25+09:00'
+updated_at: '2025-11-23T13:30:39+09:00'
 id: 7e2d792dbf7993ac4465
 organization_url_name: null
 slide: false
@@ -24,7 +24,13 @@ ignorePublish: false
 そうして完成したのが **gitlogue** です。
 Git のコミット履歴をシネマティックなアニメーションとして再生する CLI ツールです。
 
-![](https://raw.githubusercontent.com/unhappychoice/gitlogue/main/docs/assets/demo.gif)
+https://github.com/unhappychoice/gitlogue
+
+### GIF
+![demo2.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/32851/e0fdba74-f960-4dd3-95b1-12146cb54f81.gif)
+
+### スクショ
+![screenshot-editor.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/32851/ff4b53f5-23bf-46c4-af1f-75dd845a2ade.png)
 
 ## 特徴
 

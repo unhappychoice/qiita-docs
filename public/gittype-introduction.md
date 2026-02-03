@@ -1,5 +1,5 @@
 ---
-title: 自分のコードで練習ができるCLIタイピングゲームの GitType を作りました
+title: 自分のコードを打ち込める Rust 製 CLI タイピングゲームの GitType を作りました
 tags:
   - Git
   - game
@@ -7,7 +7,7 @@ tags:
   - CLI
   - 初心者
 private: false
-updated_at: '2025-09-08T21:05:59+09:00'
+updated_at: '2025-09-08T23:30:44+09:00'
 id: e76099d2ecd0cf91fb47
 organization_url_name: null
 slide: false
@@ -105,7 +105,7 @@ gittype --repo git@github.com:axios/axios.git
 
 ## リンク
 
-* GitHub: [https://github.com/unhappychoice/gittype](https://github.com/unhappychoice/gittype)
+https://github.com/unhappychoice/gittype
 
 ## おわりに
 
