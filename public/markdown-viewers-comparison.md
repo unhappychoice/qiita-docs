@@ -1,7 +1,5 @@
 ---
-title: >-
-  2026 Markdown Viewer 比較（grip / markserv / md-fileserver / glow / mo / Arto /
-  mdts）
+title: 2026 Markdown Viewer 比較（grip / markserv / glow / mo / Arto / mdts）
 tags:
   - Markdown
   - CLI
@@ -9,7 +7,7 @@ tags:
   - AI
   - viewer
 private: false
-updated_at: '2026-04-21T06:39:18+09:00'
+updated_at: '2026-04-21T06:42:50+09:00'
 id: 3f83d28adee85a3479ad
 organization_url_name: null
 slide: false
